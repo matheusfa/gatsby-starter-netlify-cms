@@ -1,7 +1,12 @@
-locale: 'pt'
+#const API_URL = 'http://localhost:8080'
+#const API_URL = 'http://179.124.192.180:8080/conexao'
+
 backend:
-  name: git-gateway
+  name: github
+  repo: matheusfa/gatsby-starter-netlify-cms   # Path to your Github repository
   branch: master
+  # base_url: http://localhost:8080 # The base URL for your Firebase Function
+  # auth_endpoint: /auth # The path to the OAuth endpoint of the function
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
@@ -11,6 +16,7 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+locale: 'pt'
 
 collections:
   - name: "blog"
