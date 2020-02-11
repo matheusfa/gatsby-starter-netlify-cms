@@ -8,7 +8,7 @@ description: >-
   Seguindo este princípio, listamos 15 tópicos importantes sobre a Fibrose
   Cística, para te ajudar a entende-la melhor! Vamos lá?
 featuredpost: true
-featuredimage: /img/hipertensc3a3o-pulmonar.webp
+featuredimage: /img/dna.jpg
 tags:
   - jamaica
   - green beans
