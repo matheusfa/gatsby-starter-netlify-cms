@@ -10,10 +10,11 @@ description: >-
 featuredpost: true
 featuredimage: /img/dna.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - FibroseCistica
+  - UnidosPelaVida
+  - Fibrose
+  - Informações
+  - BeijoSalgado
 ---
 <!--StartFragment-->
 
