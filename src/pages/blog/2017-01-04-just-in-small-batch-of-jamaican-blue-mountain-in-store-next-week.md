@@ -1,10 +1,12 @@
 ---
 templateKey: blog-post
-title: Upload Teste
-date: 2017-01-04T15:04:10.000Z
+title: 15 coisas que você precisa saber sobre a Fibrose Cística
+date: 2014-01-12T15:04:00.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Todo mundo sabe que nossa maior missão é divulgar a Fibrose Cística, não é?
+
+  Seguindo este princípio, listamos 15 tópicos importantes sobre a Fibrose
+  Cística, para te ajudar a entende-la melhor! Vamos lá?
 featuredpost: true
 featuredimage: /img/bizarro.jpg
 tags:
@@ -13,24 +15,43 @@ tags:
   - flavor
   - tasting
 ---
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+<!--StartFragment-->
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+1) A Fibrose Cística (FC), também é conhecida como**Doença do Beijo Salgado ou Mucoviscidose**.
 
-## A little history
+2) É uma**doença genética**: A pessoa tem FC por conta de um gene “defeituoso”, chamado de CFTR (regulador de condutância transmembranar de fibrose cística), que é transmitido pelo pai e pela mãe (embora nenhum dos dois manifeste a doença) e é responsável pela alteração do transporte de íons através das membranas das células.
 
-![](/img/bizarro.jpg)
+3) Ainda**não tem cura, mas**se diagnosticada precocemente**pode ser tratada**diminuindo bastante seus efeitos sobre o organismo.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+4) Os principais**sintomas**da FC são pneumonia de repetição, tosse crônica, desnutrição, dificuldade de ganhar peso e estatura, diarreia, pólipos nasais, suor mais salgado que o normal e uma espécie de alongamento das pontas dos dedos das mãos e dos pés, também conhecida como “baquetamento”.
 
-> Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+5) A FC**não é contagiosa**.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+6) A FC não causa deficiências cerebrais ou locomotoras.
 
-## What you need to know before trying
+7) Nas pessoas com FC**algumas secreções são mais mais grossas e pegajosas**, o que acaba por ocasionar obstruções no sistema respiratório, digestivo e reprodutor.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+8) Pode ser detectada através do**Teste do Pezinho**, realizado entre o 3º e 7º dia de vida do recém-nascido, ainda na maternidade. A FC é uma das seis doenças diagnosticadas na Fase III do PNTN – Programa Nacional de Triagem Neonatal (Hipotireoidismo Congênito, Fenilcetonúria, Anemia Faciforme e outras Hemoglobinopatias, Fibrose Cística, Deficiência de Biotinidase e Hiperplasia Adrenal Congênita). Ele é gratuito e obrigatório em todo o país e os pais ou responsáveis precisam verificar quais os Estados brasileiros que contemplam as três fases do programa. Caso contrário algumas maternidades oferecem a opção de teste ampliado.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+9) Para confirmação do diagnóstico são necessários outros exames. O mais comum é o**Teste do Suor**. Em nosso site você pode consultar uma lista que elaboramos exclusivamente para você encontrar onde é possível fazer o Teste do Suor pelo país. Clique aqui e encontre: http://bit.ly/1yvaxDT
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+10) Já foram descritas**mais de 1.900 mutações diferentes**no gene CFTR. O**Teste Genético**pode detectar a mutação da FC por meio de amostras de sangue em análise das mutações mais comuns. Testes mais completos só devem ser feitos se as mutações mais comuns não forem localizadas.
+
+11) Novas drogas estão sendo desenvolvidas para tratar mutações ou classes de mutações específicas. Por isso, é bom saber quais são as suas mutações.
+
+12) Existem**Associações de Assistência**à FC que representam os familiares em causas que buscam garantir o tratamento adequado, a dispensação regular e gratuita de medicamentos, suplementação nutricional e doações/empréstimos de equipamentos, apoio jurídico e assistência social, ambulatório de fisioterapia respiratória e inaloterapia, oferta de informações e esclarecimentos acerca da FC diretamente aos pacientes e familiares, entre outras atividades. Procure na lista disponível em nosso site o endereço e contatos destas associações. Clique aqui e encontre: http://bit.ly/1vJUot8
+
+13) O**tratamento**para quem tem FC deve ser realizado por médicos e uma**equipe multidisciplinar**. De forma geral ele é composto pela ingestão de enzimas digestivas para as alimentações, antibióticos, suporte nutricional, broncodilatadores, fisioterapia respiratória, antinflamatórios e atividade física. Contudo, cada caso é um caso e deve ser acompanhado e orientado por especialistas.
+
+14) Os**exercícios físicos devem fazer parte do tratamento, de acordo com as suas possibilidades**. Eles contribuem para a melhora da função respiratória, ajudam no ganho de massa muscular, controlam a diabetes relacionada à fibrose cística e previnem a osteoporose, além de atuar na correção de alguns vícios de postura adquiridos por conta dos problemas respiratórios.
+
+15) O**Instituto Unidos pela Vida**é uma organização não governamental (ONG) que tem como objetivo divulgar e conscientizar sobre a Fibrose Cística em todo o país. Trabalhamos em vários projetos e ações voltadas para a sociedade, profissionais da saúde e estudantes desta área. Por conta de seus sintomas, há grande desconhecimento da doença pela maioria da população brasileira e nossos canais de comunicação são exclusivos para a troca de experiências, apoio e divulgação desta doença.
+
+Esperamos que tenha aprendido um pouco mais!\
+Logo trazemos novas informações! Fique ligado!
+
+\=)
+
+***Nota importante:** As informações aqui contidas tem cunho estritamente educacional. Em hipótese alguma pretendem substituir a consulta médica, a realização de exames e ou, o tratamento médico. Em caso de dúvidas fale com seu médico, ele poderá esclarecer todas as suas perguntas.*
+
+<!--EndFragment-->
