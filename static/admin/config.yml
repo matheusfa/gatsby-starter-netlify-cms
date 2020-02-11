@@ -5,7 +5,7 @@ backend:
   # name: github
   name: git-gateway
   # repo: matheusfa/gatsby-starter-netlify-cms   # Path to your Github repository
-  branch: master
+  branch: conexao
   # site_domain: https://pedantic-benz-95276f.netlify.com/
   # base_url: http://localhost:8080 # The base URL for your Firebase Function
   # auth_endpoint: /auth # The path to the OAuth endpoint of the function
