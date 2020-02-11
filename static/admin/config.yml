@@ -2,9 +2,9 @@
 #const API_URL = 'http://179.124.192.180:8080/conexao'
 
 backend:
-  # name: github
-  name: git-gateway
-  # repo: matheusfa/gatsby-starter-netlify-cms   # Path to your Github repository
+  name: github
+  # name: git-gateway
+  repo: matheusfa/gatsby-starter-netlify-cms   # Path to your Github repository
   branch: master
   site_domain: https://pedantic-benz-95276f.netlify.com/
   # base_url: http://localhost:8080 # The base URL for your Firebase Function
