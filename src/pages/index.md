@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Bem-vindos ao Conexão Blog
-image: /img/featured-bubble.jpg
+image: /img/ThinkstockPhotos-507271044-1200x540.jpg
 heading: Todos sempre unidos pela vida!
 subheading: Uma lufada de dicas úteis sobre Fibrose Cística
 mainpitch:
