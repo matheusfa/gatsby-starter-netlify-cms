@@ -16,6 +16,8 @@ tags:
   - Informações
   - BeijoSalgado
 ---
+![](/img/download.jpg)
+
 <!--StartFragment-->
 
 1. A Fibrose Cística (FC), também é conhecida como**Doença do Beijo Salgado ou Mucoviscidose**.
