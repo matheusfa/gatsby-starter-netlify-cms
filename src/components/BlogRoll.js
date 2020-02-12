@@ -48,7 +48,7 @@ class BlogRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Continue lendo →
+                    Continuar lendo →
                   </Link>
                 </p>
               </article>
