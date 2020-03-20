@@ -1,11 +1,11 @@
 export function getDateFormat(date){
     if(date!=null){
         let partsT = date.split(",");
-        console.log(partsT)
+        //console.log(partsT)
         let n = partsT[0].split(" ");
-        console.log(n)
-         let f = n[1]+' de '+translateMonth(n[0])+','+partsT[1]
-         return f;
+        //console.log(n)
+        let f = n[1]+' de '+translateMonth(n[0])+','+partsT[1]
+        return f;
     }else
         return null
 };
